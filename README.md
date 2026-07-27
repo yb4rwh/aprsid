@@ -1,2 +1,2 @@
-# aprsid
-APRSID Curup Rejang Lebong by YB4RWH
+# YB4RWH log activity
+Curup Rejang Lebong by YB4RWH
